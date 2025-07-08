@@ -12,7 +12,7 @@ This analysis aims to identify key factors contributing to color inconsistencies
 - `pandas` – for data manipulation and cleaning
 - `numpy` – for numerical operations
 - `matplotlib` & `seaborn` – for data visualization
-- `scikit-learn` (if used) – for statistical analysis or modeling
+
 
 ### Insights from Exploratory Data Analysis
 
